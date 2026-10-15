@@ -1,0 +1,1318 @@
+{
+  "createdAt": "2026-09-14T06:35:54.909Z",
+  "dataset": "live",
+  "period": "all",
+  "note": "离线缓存检索评估，非联网召回率；relevant 留空等待人工标注，true/false。禁止将未标注项当成正确。",
+  "queries": [
+    {
+      "keyword": "新生",
+      "results": [
+        {
+          "eventId": "fe280e9b-8507-44b4-bea4-d6ecc4c6081a",
+          "title": "华侨大学开学 迎逾万名海内外新生",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-13/10695809.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "51fa26d9-38e8-4154-9359-8b59de1e339b",
+          "title": "推拿、压豆齐上阵 高校迎新现场变大型义诊区",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-08/news1068160.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "92026786-3319-434b-9f21-0cd799f2d7b1",
+          "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "4dabe4d7-63eb-4cfa-a9c3-e4f04d5be34b",
+          "title": "大学新生“三件套”涨价了 最高涨幅近五成",
+          "sources": [
+            "http://www.chinanews.com.cn/cj/2026/08-12/10676323.shtml",
+            "http://www.chinanews.com.cn/cj/2026/08-13/10677106.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "260ee425-d54f-4f79-ba7e-e416b9a540b7",
+          "title": "探秘江西高校“宝藏”博物馆：大一新生参与“挖”出新矿物",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/06-11/10638556.shtml",
+            "http://www.chinanews.com.cn/sh/shipin/cns/2026/06-18/news1058569.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "811571c6-02ed-47ca-bb64-058638de6a56",
+          "title": "大湾区大学来了！大一新生入学后 先不分专业",
+          "sources": [
+            "http://www.chinanews.com.cn/dwq/2025/12-06/10528189.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "89f2c298-d42a-4d18-b5aa-19eca18b19c0",
+          "title": "从讲台到大学课堂 58岁“大一新生”追梦戏曲",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2025/09-16/news1030276.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "c813eede-d5e2-4201-bf70-318c6b3b6c79",
+          "title": "机器人亮相武汉高校迎新 多功能服务吸睛又暖心",
+          "sources": [
+            "http://www.chinanews.com.cn/shipin/cns-d/2025/09-11/news1029876.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "decc352c-be46-43b1-b3af-4ab80468b9fd",
+          "title": "重庆大学新生“开学第一课”  校长以四个“求”谈学风传承",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-14/10482198.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "66188806-5816-405d-8f4a-c95c7f8f0921",
+          "title": "中国高校迎新“炫”科技 机器人成校园“明星”",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-04/10476444.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "迎新",
+      "results": [
+        {
+          "eventId": "fe280e9b-8507-44b4-bea4-d6ecc4c6081a",
+          "title": "华侨大学开学 迎逾万名海内外新生",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-13/10695809.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "51fa26d9-38e8-4154-9359-8b59de1e339b",
+          "title": "推拿、压豆齐上阵 高校迎新现场变大型义诊区",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-08/news1068160.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "92026786-3319-434b-9f21-0cd799f2d7b1",
+          "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "4dabe4d7-63eb-4cfa-a9c3-e4f04d5be34b",
+          "title": "大学新生“三件套”涨价了 最高涨幅近五成",
+          "sources": [
+            "http://www.chinanews.com.cn/cj/2026/08-12/10676323.shtml",
+            "http://www.chinanews.com.cn/cj/2026/08-13/10677106.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "260ee425-d54f-4f79-ba7e-e416b9a540b7",
+          "title": "探秘江西高校“宝藏”博物馆：大一新生参与“挖”出新矿物",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/06-11/10638556.shtml",
+            "http://www.chinanews.com.cn/sh/shipin/cns/2026/06-18/news1058569.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "811571c6-02ed-47ca-bb64-058638de6a56",
+          "title": "大湾区大学来了！大一新生入学后 先不分专业",
+          "sources": [
+            "http://www.chinanews.com.cn/dwq/2025/12-06/10528189.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "89f2c298-d42a-4d18-b5aa-19eca18b19c0",
+          "title": "从讲台到大学课堂 58岁“大一新生”追梦戏曲",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2025/09-16/news1030276.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "c813eede-d5e2-4201-bf70-318c6b3b6c79",
+          "title": "机器人亮相武汉高校迎新 多功能服务吸睛又暖心",
+          "sources": [
+            "http://www.chinanews.com.cn/shipin/cns-d/2025/09-11/news1029876.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "decc352c-be46-43b1-b3af-4ab80468b9fd",
+          "title": "重庆大学新生“开学第一课”  校长以四个“求”谈学风传承",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-14/10482198.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "66188806-5816-405d-8f4a-c95c7f8f0921",
+          "title": "中国高校迎新“炫”科技 机器人成校园“明星”",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-04/10476444.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "大学新生",
+      "results": [
+        {
+          "eventId": "fe280e9b-8507-44b4-bea4-d6ecc4c6081a",
+          "title": "华侨大学开学 迎逾万名海内外新生",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-13/10695809.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "51fa26d9-38e8-4154-9359-8b59de1e339b",
+          "title": "推拿、压豆齐上阵 高校迎新现场变大型义诊区",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-08/news1068160.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "92026786-3319-434b-9f21-0cd799f2d7b1",
+          "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "4dabe4d7-63eb-4cfa-a9c3-e4f04d5be34b",
+          "title": "大学新生“三件套”涨价了 最高涨幅近五成",
+          "sources": [
+            "http://www.chinanews.com.cn/cj/2026/08-12/10676323.shtml",
+            "http://www.chinanews.com.cn/cj/2026/08-13/10677106.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "260ee425-d54f-4f79-ba7e-e416b9a540b7",
+          "title": "探秘江西高校“宝藏”博物馆：大一新生参与“挖”出新矿物",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/06-11/10638556.shtml",
+            "http://www.chinanews.com.cn/sh/shipin/cns/2026/06-18/news1058569.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "811571c6-02ed-47ca-bb64-058638de6a56",
+          "title": "大湾区大学来了！大一新生入学后 先不分专业",
+          "sources": [
+            "http://www.chinanews.com.cn/dwq/2025/12-06/10528189.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "89f2c298-d42a-4d18-b5aa-19eca18b19c0",
+          "title": "从讲台到大学课堂 58岁“大一新生”追梦戏曲",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2025/09-16/news1030276.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "c813eede-d5e2-4201-bf70-318c6b3b6c79",
+          "title": "机器人亮相武汉高校迎新 多功能服务吸睛又暖心",
+          "sources": [
+            "http://www.chinanews.com.cn/shipin/cns-d/2025/09-11/news1029876.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "decc352c-be46-43b1-b3af-4ab80468b9fd",
+          "title": "重庆大学新生“开学第一课”  校长以四个“求”谈学风传承",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-14/10482198.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "66188806-5816-405d-8f4a-c95c7f8f0921",
+          "title": "中国高校迎新“炫”科技 机器人成校园“明星”",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-04/10476444.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "大一新生",
+      "results": [
+        {
+          "eventId": "fe280e9b-8507-44b4-bea4-d6ecc4c6081a",
+          "title": "华侨大学开学 迎逾万名海内外新生",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-13/10695809.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "51fa26d9-38e8-4154-9359-8b59de1e339b",
+          "title": "推拿、压豆齐上阵 高校迎新现场变大型义诊区",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-08/news1068160.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "92026786-3319-434b-9f21-0cd799f2d7b1",
+          "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "4dabe4d7-63eb-4cfa-a9c3-e4f04d5be34b",
+          "title": "大学新生“三件套”涨价了 最高涨幅近五成",
+          "sources": [
+            "http://www.chinanews.com.cn/cj/2026/08-12/10676323.shtml",
+            "http://www.chinanews.com.cn/cj/2026/08-13/10677106.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "260ee425-d54f-4f79-ba7e-e416b9a540b7",
+          "title": "探秘江西高校“宝藏”博物馆：大一新生参与“挖”出新矿物",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/06-11/10638556.shtml",
+            "http://www.chinanews.com.cn/sh/shipin/cns/2026/06-18/news1058569.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "811571c6-02ed-47ca-bb64-058638de6a56",
+          "title": "大湾区大学来了！大一新生入学后 先不分专业",
+          "sources": [
+            "http://www.chinanews.com.cn/dwq/2025/12-06/10528189.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "89f2c298-d42a-4d18-b5aa-19eca18b19c0",
+          "title": "从讲台到大学课堂 58岁“大一新生”追梦戏曲",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2025/09-16/news1030276.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "c813eede-d5e2-4201-bf70-318c6b3b6c79",
+          "title": "机器人亮相武汉高校迎新 多功能服务吸睛又暖心",
+          "sources": [
+            "http://www.chinanews.com.cn/shipin/cns-d/2025/09-11/news1029876.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "decc352c-be46-43b1-b3af-4ab80468b9fd",
+          "title": "重庆大学新生“开学第一课”  校长以四个“求”谈学风传承",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-14/10482198.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "66188806-5816-405d-8f4a-c95c7f8f0921",
+          "title": "中国高校迎新“炫”科技 机器人成校园“明星”",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-04/10476444.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "入学报到",
+      "results": []
+    },
+    {
+      "keyword": "开学",
+      "results": [
+        {
+          "eventId": "fe280e9b-8507-44b4-bea4-d6ecc4c6081a",
+          "title": "华侨大学开学 迎逾万名海内外新生",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-13/10695809.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "5878850a-8a76-40a1-b2a9-ab4d58a183f2",
+          "title": "大学生每月生活费多少才算“够”？开学季生活费话题再引热议",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-26/10684304.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "92026786-3319-434b-9f21-0cd799f2d7b1",
+          "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "decc352c-be46-43b1-b3af-4ab80468b9fd",
+          "title": "重庆大学新生“开学第一课”  校长以四个“求”谈学风传承",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-14/10482198.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "f28d594c-6865-457a-8c44-1ceae35acf3e",
+          "title": "“开学大礼包”已备好 @大学新生 快来开启“新手村”之旅",
+          "sources": [
+            "http://www.chinanews.com.cn/edu/2025/09-01/10474591.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "5790232f-441c-49de-9a17-44dd1dbca419",
+          "title": "开学在即高校迎新，北京公安、客运、高校“三方联动”",
+          "sources": [
+            "http://www.chinanews.com.cn/gn/2025/08-29/10473363.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "ea17cf59-aa2c-4a6e-b09b-6cf9793b57c3",
+          "title": "上海推出“高校迎新返校专区”助力开学季学生顺畅返校",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2024/08-27/10275393.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "06c10a41-3035-4c1f-9df7-97521dbdb296",
+          "title": "大连海事大学2026级新生开学典礼暨迎新生文艺晚会",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/lives/content_mOz4v0HVLZ.html"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "7bf31fb2-d1a7-4e1a-bdaa-f16b343f26a5",
+          "title": "抖音拼豆大学开学了",
+          "sources": [
+            "https://www.douyin.com/hot/2644925"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "ed45afb7-be93-497f-b1bb-e7bd7642cdc9",
+          "title": "开学“三件套”被推迟，大一新生的账越算越精",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/09-01/10688091.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "军训",
+      "results": []
+    },
+    {
+      "keyword": "新生宿舍",
+      "results": []
+    },
+    {
+      "keyword": "入学教育",
+      "results": []
+    },
+    {
+      "keyword": "开学典礼",
+      "results": [
+        {
+          "eventId": "06c10a41-3035-4c1f-9df7-97521dbdb296",
+          "title": "大连海事大学2026级新生开学典礼暨迎新生文艺晚会",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/lives/content_mOz4v0HVLZ.html"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "b17554bf-ecae-4250-973b-e265b43f8003",
+          "title": "国家教育行政学院举行2026年秋季开学典礼",
+          "sources": [
+            "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/moe_1485/202609/t20260902_1448669.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "宿舍",
+      "results": [
+        {
+          "eventId": "458de9d1-a234-44d3-8622-0850457855a3",
+          "title": "学校强制要求大四学生腾宿舍给新生？校方通报",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/09-11/10694415.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "9fc3e77a-7be3-4623-a20d-97b951afbbe3",
+          "title": "“8枚鸡蛋接考”贺永辉高考526分 湖南农业大学老师上门招生 承诺免去四年学费 还贴心为永辉安排无障碍宿舍",
+          "sources": [
+            "http://www.chinanews.com.cn/shipin/2026/06-26/news1059553.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "1801632f-903b-4658-b864-e8aea1adf135",
+          "title": "“强制大四女生给新入学男生腾宿舍”，高校致歉",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/11/content_Ka0770fBA3.html"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "37cc4455-8989-42ac-a8fe-bfbad6701d91",
+          "title": "中新网评：让78名学生住1间宿舍，这是谁的点子？",
+          "sources": [
+            "http://www.chinanews.com.cn/gn/2026/09-02/10688428.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "ed8c206d-a715-443f-afe7-a41a283a7259",
+          "title": "广西平乐通报“78名学生住体育场宿舍”：已开展整改",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/09-01/10687640.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "b6c64d63-66c3-45aa-aac2-bf83d9e6479a",
+          "title": "香港多间酒店“变身”学生宿舍 专家：“留学香港”带旺住宿需求",
+          "sources": [
+            "http://www.chinanews.com.cn/ga/shipin/cns-d/2026/08-23/news1066268.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "cfb92cfd-bb8c-4b02-9b91-747d24e56ba0",
+          "title": "（机遇香港）“留学香港”催热宿舍生意   学生公寓成投资新蓝海",
+          "sources": [
+            "http://www.chinanews.com.cn/dwq/2026/08-09/10674625.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "919ea773-8d30-461e-a7a0-c03dbfa88cc2",
+          "title": "我的青春我“职”道｜从宿舍楼道到“天涯海角”：北邮师生团队以AI助教叩开智慧教育之门",
+          "sources": [
+            "http://www.chinanews.com.cn/edu/2026/06-20/10644302.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "88d00cb1-140a-4983-87aa-569d26a57ff8",
+          "title": "通伦到访中央党校 重回26年前所住宿舍",
+          "sources": [
+            "http://www.chinanews.com.cn/gj/shipin/cns-d/2026/06-04/news1056696.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "2e8fbbcc-3836-4701-a3b4-842c59f325e3",
+          "title": "通伦到访中央党校，重回早年所住宿舍，感谢老师传授知识",
+          "sources": [
+            "http://www.chinanews.com.cn/gn/shipin/2026/06-04/news1056665.shtml",
+            "http://www.chinanews.com.cn/gn/2026/06-04/10634282.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "食堂",
+      "results": []
+    },
+    {
+      "keyword": "社团",
+      "results": []
+    },
+    {
+      "keyword": "校园生活",
+      "results": []
+    },
+    {
+      "keyword": "图书馆",
+      "results": [
+        {
+          "eventId": "9a71b8d3-ae9e-468f-8173-7809d901799f",
+          "title": "让书“找到”人：大学图书馆如何破圈",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/13/content_mOzynbIVLZ.html"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "9a532546-0b1b-4748-a797-45bb76b563f1",
+          "title": "纸质阅读少了，“泡”图书馆的理由却更多了",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/13/content_X5Eg4Ltp25.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "校园交通",
+      "results": []
+    },
+    {
+      "keyword": "校园网络",
+      "results": []
+    },
+    {
+      "keyword": "快递",
+      "results": []
+    },
+    {
+      "keyword": "校医院",
+      "results": []
+    },
+    {
+      "keyword": "校园安全",
+      "results": []
+    },
+    {
+      "keyword": "秋招",
+      "results": []
+    },
+    {
+      "keyword": "实习",
+      "results": [
+        {
+          "eventId": "6c887c10-b422-4cff-84e2-11bd96734042",
+          "title": "影视飓风给全员发万元 iPhone Duo，连实习生都有且代缴个税，你怎么看这种「别人家的公司」？",
+          "sources": [
+            "https://www.zhihu.com/question/2081687756963688823"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "就业",
+      "results": [
+        {
+          "eventId": "3a13e43a-b0ab-4539-a3d4-907c6f4c1e72",
+          "title": "2026“百县对百校促就业行动”校地人才供需对接会在无锡宜兴举办",
+          "sources": [
+            "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202608/t20260811_1446660.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "应届生",
+      "results": []
+    },
+    {
+      "keyword": "招聘",
+      "results": []
+    },
+    {
+      "keyword": "春招",
+      "results": []
+    },
+    {
+      "keyword": "校招",
+      "results": [
+        {
+          "eventId": "374308ab-1b78-4f7b-b124-092df658c0d1",
+          "title": "教育部部署2026年全国成人高校招生工作",
+          "sources": [
+            "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202609/t20260903_1448879.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "简历",
+      "results": []
+    },
+    {
+      "keyword": "面试",
+      "results": []
+    },
+    {
+      "keyword": "求职",
+      "results": [
+        {
+          "eventId": "3d556408-e560-46b5-9fb0-e4b802662456",
+          "title": "宁夏首次线上发放毕业生一次性求职补贴",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-13/10695796.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "考研",
+      "results": []
+    },
+    {
+      "keyword": "保研",
+      "results": []
+    },
+    {
+      "keyword": "四六级",
+      "results": []
+    },
+    {
+      "keyword": "考试",
+      "results": []
+    },
+    {
+      "keyword": "奖学金",
+      "results": []
+    },
+    {
+      "keyword": "助学金",
+      "results": []
+    },
+    {
+      "keyword": "选课",
+      "results": []
+    },
+    {
+      "keyword": "转专业",
+      "results": []
+    },
+    {
+      "keyword": "辅修",
+      "results": []
+    },
+    {
+      "keyword": "毕业论文",
+      "results": []
+    },
+    {
+      "keyword": "生活费",
+      "results": [
+        {
+          "eventId": "ec18b447-0849-4e6d-bfe2-9d78dbeb75cf",
+          "title": "大学生活费怎么给？谈“钱”之前，先谈“生活”",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/12/content_wdOOOEURVJ.html",
+            "http://www.chinanews.com.cn/sh/2026/09-12/10695103.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "5878850a-8a76-40a1-b2a9-ab4d58a183f2",
+          "title": "大学生每月生活费多少才算“够”？开学季生活费话题再引热议",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-26/10684304.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "cf2d37a8-f4c0-442d-9d83-41bb63f5b66a",
+          "title": "家长一次性给了4年大学生活费！换你敢接吗？",
+          "sources": [
+            "https://www.chinanews.com.cn/gsztc/2023/10-31/10103536.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "732e1647-0fd9-4557-935f-0760a23fa6e7",
+          "title": "加拿大对国际留学生提高生活费存款要求",
+          "sources": [
+            "https://www.chinanews.com.cn/gj/2023/12-08/10124905.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "ca351440-6265-47c3-ba2b-c79cfa217494",
+          "title": "美报告：大多数美国家庭的收入不足以支撑基本生活费用",
+          "sources": [
+            "http://www.chinanews.com.cn/gj/2025/05-14/10415624.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "9cb7d19b-45df-4f5b-93bc-9dd7db05c02c",
+          "title": "黑龙江哈尔滨：连续4年提高孤儿基本生活费标准",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2024/11-06/10314492.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "b373d7ce-5fea-4bb4-ba98-8769f938f05d",
+          "title": "给工资取个生活费等“别名”，就能逃避劳动关系了吗？",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2024/07-04/10245449.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "ad07e2e4-d82b-4c2e-aba8-81a10cc4dca1",
+          "title": "黑龙江再次提高孤儿生活费保障标准 提标幅度9.4%",
+          "sources": [
+            "https://www.chinanews.com.cn/cj/2023/08-08/10057480.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "d37d896b-2928-4b35-9ca6-044b22ebd6df",
+          "title": "产假每月仅预支2500元生活费？法院：协议无效 公司要赔偿",
+          "sources": [
+            "https://www.chinanews.com.cn/sh/2023/07-29/10051777.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "8501459b-168e-401b-8ba8-8b9d2317fbe0",
+          "title": "聚焦“斜杠青年”：他们靠打零工实现生活费自由",
+          "sources": [
+            "https://www.chinanews.com.cn/sh/2023/06-05/10019226.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "校园贷",
+      "results": []
+    },
+    {
+      "keyword": "兼职",
+      "results": []
+    },
+    {
+      "keyword": "消费维权",
+      "results": []
+    },
+    {
+      "keyword": "反诈",
+      "results": []
+    },
+    {
+      "keyword": "租房",
+      "results": []
+    },
+    {
+      "keyword": "学生票",
+      "results": [
+        {
+          "eventId": "92026786-3319-434b-9f21-0cd799f2d7b1",
+          "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "助学贷款",
+      "results": []
+    },
+    {
+      "keyword": "校园消费",
+      "results": []
+    },
+    {
+      "keyword": "电信诈骗",
+      "results": []
+    },
+    {
+      "keyword": "运动会",
+      "results": []
+    },
+    {
+      "keyword": "校园文化",
+      "results": []
+    },
+    {
+      "keyword": "音乐节",
+      "results": []
+    },
+    {
+      "keyword": "志愿服务",
+      "results": []
+    },
+    {
+      "keyword": "社会实践",
+      "results": []
+    },
+    {
+      "keyword": "大学生体育",
+      "results": []
+    },
+    {
+      "keyword": "社团招新",
+      "results": []
+    },
+    {
+      "keyword": "校园演出",
+      "results": []
+    },
+    {
+      "keyword": "毕业晚会",
+      "results": []
+    },
+    {
+      "keyword": "校园摄影",
+      "results": []
+    },
+    {
+      "keyword": "心理健康",
+      "results": [
+        {
+          "eventId": "f7e274f5-f404-47e4-a6ed-feb4dce23194",
+          "title": "关注职校生心理健康：别用一把尺子丈量所有孩子",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/14/content_PbOy6Bhx0j.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "毕业生",
+      "results": [
+        {
+          "eventId": "3d556408-e560-46b5-9fb0-e4b802662456",
+          "title": "宁夏首次线上发放毕业生一次性求职补贴",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-13/10695796.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "青年",
+      "results": [
+        {
+          "eventId": "f36df3a1-8a61-4408-b74c-e3500cff2448",
+          "title": "一所大学、一座城市和一代青年的精神接力",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-11/10694486.shtml",
+            "http://news.cyol.com/gb/news/articles/2026-09/11/content_Ka076VFBA3.html"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "a375a25a-d80b-40d0-b770-ab3a16cae8ac",
+          "title": "香港举办青年公寓迎新活动 助力在港留学生适应新生活",
+          "sources": [
+            "http://www.chinanews.com.cn/dwq/2026/09-10/10694309.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "19d5d0cb-fb64-425b-b9cd-ab00e9b4c0a6",
+          "title": "青年调查：准大一新生暑期消费首选电子产品，其次是考驾照",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/08-07/10460560.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "22335d5e-b8c1-48c3-968e-1eaa818b1066",
+          "title": "青春华章｜以“有为”之青年展现“无畏”之青春",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-09/10693291.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "8501459b-168e-401b-8ba8-8b9d2317fbe0",
+          "title": "聚焦“斜杠青年”：他们靠打零工实现生活费自由",
+          "sources": [
+            "https://www.chinanews.com.cn/sh/2023/06-05/10019226.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "221c0772-9cf2-49d4-838b-f2f4a3b4b54e",
+          "title": "世界青年与中国式现代化同行",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/14/content_JQoVRLcZyw.html"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "4de27de4-9626-47d7-997a-d957fec152bb",
+          "title": "关机134天，90后青年如何“离线”生活",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/13/content_Ka0zWVfBA3.html"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "c2a0ce52-e9e2-4f43-83e0-aba06e81d5be",
+          "title": "中国青年正与青春中国共成长",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/11/content_X5ELqNFp25.html"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "ded6fadc-1f07-4c50-a8a7-5555073d19e8",
+          "title": "一名青年教师的高原答卷",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/11/content_wdOWbRURVJ.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "人工智能",
+      "results": [
+        {
+          "eventId": "a5ad805b-7e63-461c-9e1d-5f743de4d92b",
+          "title": "重构人才培养体系 重庆大学推进人工智能深度融入本科教学",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-09/10693196.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "大学生创业",
+      "results": [
+        {
+          "eventId": "148159ad-1880-4450-87a1-c368ccd416a8",
+          "title": "破解融资难、创业有兜底 湖南升级大学生创业扶持体系",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/09-10/10694161.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "创新创业",
+      "results": []
+    },
+    {
+      "keyword": "大学生竞赛",
+      "results": []
+    },
+    {
+      "keyword": "职业规划",
+      "results": []
+    },
+    {
+      "keyword": "大学生就业",
+      "results": []
+    },
+    {
+      "keyword": "大学生心理",
+      "results": []
+    },
+    {
+      "keyword": "校园食堂",
+      "results": []
+    },
+    {
+      "keyword": "宿舍维修",
+      "results": []
+    },
+    {
+      "keyword": "校园网",
+      "results": []
+    },
+    {
+      "keyword": "图书馆开放",
+      "results": []
+    },
+    {
+      "keyword": "大学生医保",
+      "results": []
+    },
+    {
+      "keyword": "交通安全",
+      "results": []
+    },
+    {
+      "keyword": "实验室安全",
+      "results": []
+    },
+    {
+      "keyword": "学生权益",
+      "results": []
+    },
+    {
+      "keyword": "勤工助学",
+      "results": []
+    },
+    {
+      "keyword": "困难补助",
+      "results": []
+    },
+    {
+      "keyword": "迎新志愿者",
+      "results": []
+    },
+    {
+      "keyword": "新生报到",
+      "results": [
+        {
+          "eventId": "a80a1151-20b7-476f-9c5c-e14d1271ffc9",
+          "title": "实用收藏！大学新生报到一站式清单请收好",
+          "sources": [
+            "http://www.chinanews.com.cn/edu/2024/08-13/10268025.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "新生入学",
+      "results": [
+        {
+          "eventId": "811571c6-02ed-47ca-bb64-058638de6a56",
+          "title": "大湾区大学来了！大一新生入学后 先不分专业",
+          "sources": [
+            "http://www.chinanews.com.cn/dwq/2025/12-06/10528189.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "毕业季",
+      "results": []
+    },
+    {
+      "keyword": "毕业典礼",
+      "results": []
+    },
+    {
+      "keyword": "大学生返校",
+      "results": []
+    },
+    {
+      "keyword": "开学季",
+      "results": [
+        {
+          "eventId": "5878850a-8a76-40a1-b2a9-ab4d58a183f2",
+          "title": "大学生每月生活费多少才算“够”？开学季生活费话题再引热议",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-26/10684304.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "ea17cf59-aa2c-4a6e-b09b-6cf9793b57c3",
+          "title": "上海推出“高校迎新返校专区”助力开学季学生顺畅返校",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2024/08-27/10275393.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "1e08b13b-a2c2-43d0-a445-010fb6f244ed",
+          "title": "开学季家校协同关注孩子的体重、视力、心理、骨骼、口腔",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/12/content_77eepwIeEY.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "暑期实践",
+      "results": []
+    },
+    {
+      "keyword": "寒假实践",
+      "results": []
+    },
+    {
+      "keyword": "暑期实习",
+      "results": []
+    },
+    {
+      "keyword": "青年文化",
+      "results": []
+    },
+    {
+      "keyword": "大学图书馆",
+      "results": [
+        {
+          "eventId": "9a71b8d3-ae9e-468f-8173-7809d901799f",
+          "title": "让书“找到”人：大学图书馆如何破圈",
+          "sources": [
+            "http://news.cyol.com/gb/news/articles/2026-09/13/content_mOzynbIVLZ.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "大学生阅读",
+      "results": []
+    },
+    {
+      "keyword": "大学生消费",
+      "results": []
+    },
+    {
+      "keyword": "校园活动",
+      "results": []
+    },
+    {
+      "keyword": "高校招生",
+      "results": [
+        {
+          "eventId": "374308ab-1b78-4f7b-b124-092df658c0d1",
+          "title": "教育部部署2026年全国成人高校招生工作",
+          "sources": [
+            "http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202609/t20260903_1448879.html"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "高校就业",
+      "results": []
+    },
+    {
+      "keyword": "高校迎新",
+      "results": [
+        {
+          "eventId": "fe280e9b-8507-44b4-bea4-d6ecc4c6081a",
+          "title": "华侨大学开学 迎逾万名海内外新生",
+          "sources": [
+            "https://www.chinanews.com.cn/edu/2026/09-13/10695809.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "51fa26d9-38e8-4154-9359-8b59de1e339b",
+          "title": "推拿、压豆齐上阵 高校迎新现场变大型义诊区",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2026/09-08/news1068160.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "92026786-3319-434b-9f21-0cd799f2d7b1",
+          "title": "开学提醒！大学新生买学生票有新变化，购票乘车攻略→",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/08-21/10681385.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "4dabe4d7-63eb-4cfa-a9c3-e4f04d5be34b",
+          "title": "大学新生“三件套”涨价了 最高涨幅近五成",
+          "sources": [
+            "http://www.chinanews.com.cn/cj/2026/08-12/10676323.shtml",
+            "http://www.chinanews.com.cn/cj/2026/08-13/10677106.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "260ee425-d54f-4f79-ba7e-e416b9a540b7",
+          "title": "探秘江西高校“宝藏”博物馆：大一新生参与“挖”出新矿物",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2026/06-11/10638556.shtml",
+            "http://www.chinanews.com.cn/sh/shipin/cns/2026/06-18/news1058569.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "811571c6-02ed-47ca-bb64-058638de6a56",
+          "title": "大湾区大学来了！大一新生入学后 先不分专业",
+          "sources": [
+            "http://www.chinanews.com.cn/dwq/2025/12-06/10528189.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "89f2c298-d42a-4d18-b5aa-19eca18b19c0",
+          "title": "从讲台到大学课堂 58岁“大一新生”追梦戏曲",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/shipin/cns-d/2025/09-16/news1030276.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "c813eede-d5e2-4201-bf70-318c6b3b6c79",
+          "title": "机器人亮相武汉高校迎新 多功能服务吸睛又暖心",
+          "sources": [
+            "http://www.chinanews.com.cn/shipin/cns-d/2025/09-11/news1029876.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "decc352c-be46-43b1-b3af-4ab80468b9fd",
+          "title": "重庆大学新生“开学第一课”  校长以四个“求”谈学风传承",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-14/10482198.shtml"
+          ],
+          "relevant": null
+        },
+        {
+          "eventId": "66188806-5816-405d-8f4a-c95c7f8f0921",
+          "title": "中国高校迎新“炫”科技 机器人成校园“明星”",
+          "sources": [
+            "http://www.chinanews.com.cn/sh/2025/09-04/10476444.shtml"
+          ],
+          "relevant": null
+        }
+      ]
+    },
+    {
+      "keyword": "高校食堂",
+      "results": []
+    },
+    {
+      "keyword": "高校宿舍",
+      "results": []
+    }
+  ]
+}
